@@ -1,0 +1,1 @@
+docker run -e POSTGRES_PASSWORD=postgres -e POSTGRES_DB=yugokraft -p 5432:5432 -v $(pwd)/postgresql.conf:/etc/postgresql/postgresql.conf -d postgres

@@ -1,0 +1,1 @@
+export type StatisticsRecord = Record<string, (string[] | string) | (number[] | number) | boolean>

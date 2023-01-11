@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "disco-outpost-294920",
+  "private_key_id": "50e3b1b8724eb42498d5e2efa16114c300929042",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7m36qvGXYjqNn\nEJXaeDQKysE4vyJNImrkkj5jmVvmgRxOpIS/yxzbY12GBh6hL0Jv1pFyKSgaWYbI\nJS23Egy9BDamA0AzodIXKSShZkXbtpiycECGW9GBX+2OmAKNTYV16Zc8YFQ+Yu0O\n/mQMW1N0992Qi7p+oPk0KFh/gYbyJx9rtsMJQAqom8EFD4lU4vuqo62O5sYPmi7S\nEdRRX91+flI4vCWqFCOBf+sDTe2CbL840bElnJlcNmWAIeTiXbUHCQsnWUgy5e4w\neWwJSPYcwfBzdMiIC11fkSLHlSQCPdyNwsjyMZcs4znAh2Ak5MHUa3qfgc3a45fj\nszZJquqXAgMBAAECggEAMyetHEUOyEPsjlfZZJ7OIfszQJPteHbgCr9Nv767blja\nLR9zCxEJJ1Eq2Tal93F5fiFVu3k5dCXhOIXat0Z2rruNYysTwIBpVuNjF5dZiRV7\nAXzWO0yiDdLoZa9RUtJGh+ZP1Ki3j+NNnH8FLNFiKkzD33waOBkQmoY9y1a4QyKs\nRgyEF9hU3AkMS490J5W8Gg9ESZ6vXVojr0a8AqBtyEGZwFhRs4XgwpGLez0QTSOg\na56XHcT5rSiHoBkkWfdB80D5/VgRC9sEALpGMTW0M3YHAZ3TUwoQLHKGh3v0WnMe\ns2VeBVLXvEePm1cbMxYPPjf4ESrWcCoyH/1yANzHgQKBgQDf387NcgOvAmVhUIQt\n/xWJe1WsWOZq8Q1Lb3iAgfzo1vdPSDhH92WLC4KNAtjcr0j1uCNwuVEdI5fxmWbA\nYERxJTsPChqjJYsrYTns+frZL2DPSW9t5qtrCv/YdhvEJkXYMxnN31YBB4QXI/2q\nUn3i9mx5r+sfxQ9VT0rTltiPYQKBgQDWh2WB8ttVmTwSG864YUPAhUSSzfRO6c9u\nNZw7PINpbXW8DoptL7GoPczNam5PgtS+ijxaFumXaM6/atTddzAop+pjoIZEf4eE\nNcI4J7Bd8v3nNSAv12uIdMpSOdRuSzNzvkepEERKxtxfOZDdh6k48W7awYhq0338\nlO38qqUU9wKBgCeoBID99ksU+JJhadif+9erokRyRvagloNLTqQs4nj4QzynBVky\nKKmVs115KKMG5bypDpYULZskx/CDBOGE6/rC5pBGcOt/ZgScJ1+j9FxueQ6e6n8k\nQi8m9qUIXujDAtJGUwbVze1GwI480N1P2X7Pue1gTR0Gki3BavbKHLhhAoGAKN8m\n4bkpPIezQCf4HHy7ccRyKh3++8Hj+TVRjJ+c0cs+8RM8IE1D5a/QgxpR5eghLCQe\nF3PiESywpxttbrw0eqpzJ4P/0LETWob7d8NoAJ447YHbngHGxPqrSTsnU9QT+2s3\nL+ifejek6KeJCAu+m9CztA3HNcMRb7vYE5lXVkUCgYAxLw1DrYjlxa4ltH4o4eB4\nUbb17HJEOOmmywt4IGNng16T/pIQNPsAtxJZMOauck5vXGY5ILDNYrXXZ3dofPxy\n6GNJmPYJyq/3hgjceAipnl6qEFoGPPU8IrQkEuZnZWSLiH0bh83T453cwUruom0Q\nqkT2KbimuJRg7aSUEFFaCg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yug-translate@disco-outpost-294920.iam.gserviceaccount.com",
+  "client_id": "102262965830858086231",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yug-translate%40disco-outpost-294920.iam.gserviceaccount.com"
+}
